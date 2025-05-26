@@ -1,0 +1,6 @@
+2025-05-25 12:59:28 WARN  DriverFactory:109 - env is null, hence running the tests on QA env by default...
+2025-05-25 12:59:28 INFO  DriverFactory:46 - properties: {headless=false, highlight=false, password=Test@123, browser=chrome, incognito=false, url=https://naveenautomationlabs.com/opencart/index.php?route=account/login, username=swanand@test.com}
+2025-05-25 12:59:28 INFO  DriverFactory:50 - browser name : chrome
+2025-05-25 13:00:15 INFO  BaseTest:68 - ---screenshot is taken---
+2025-05-25 13:00:17 INFO  AccountsPage:41 - home page title: My Account
+2025-05-25 13:00:17 INFO  BaseTest:82 - ----closing the browser----
